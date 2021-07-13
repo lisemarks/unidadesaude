@@ -1,0 +1,24 @@
+{
+ 
+  "name": "unidadesaude",
+  "version": "1.0.0",
+  "description": "Mostrar unidade basica de saúde no bairro do usuário",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisemarks/unidadesaude.git"
+  },
+  "author": "Lisemar Kaleski Sampaio <lisemarkaleskisampaio@gmail.com> (http://www.lisemar.com.br)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisemarks/unidadesaude/issues"
+  },
+  "homepage": "https://github.com/lisemarks/unidadesaude#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "prompt": "^1.1.0"
+  }
+}
