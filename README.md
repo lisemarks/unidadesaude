@@ -27,4 +27,4 @@ $ git clone <https://github.com/lisemarks/unidadesaude.git>
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm index.js
+$ node index.js
