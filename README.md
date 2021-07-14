@@ -21,12 +21,11 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm index.js
 
+### API utilizada
+[Unidades Básicas de Saúde (UBS)](https://dados.gov.br/dataset/unidades-basicas-de-saude-ubs/resource/1684b8d1-f8fd-4870-9556-31154b2d75c9)
 
 ### Features
-
 - [x] Consulta por bairro
 - [x] Consulta distância entre ccordenadas
 - [ ] Consultar por bairro de um determinado estado
 - [ ] Consultar por bairro de uma determinada cidade
-
-
