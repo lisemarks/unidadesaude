@@ -1,8 +1,16 @@
 <h1 align="center"> Buscar unidade de saúde por bairro informado </h1>
-### Descrição do projeto
 <p align="justify"> Ao informar o seu bairro, o sistema lista todas as unidades de saúde que estão localizadas nele. E mais, ao informar a latitude e longitude do seu endereço é mostrado a distancia em Kilometros da sua localidade até a unidade de saúde </p>
 
 ### Obs.: A aplicação considera apenas o bairro, ou seja, se o mesmo se repetir pelo Brasil é listado todos.
+
+### API utilizada
+[Unidades Básicas de Saúde (UBS)](https://dados.gov.br/dataset/unidades-basicas-de-saude-ubs/resource/1684b8d1-f8fd-4870-9556-31154b2d75c9)
+
+### Features
+- [x] Consulta por bairro
+- [x] Consulta distância entre ccordenadas
+- [ ] Consultar por bairro de um determinado estado
+- [ ] Consultar por bairro de uma determinada cidade
 
 ### Pré-requisitos
 
@@ -20,12 +28,3 @@ $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm index.js
-
-### API utilizada
-[Unidades Básicas de Saúde (UBS)](https://dados.gov.br/dataset/unidades-basicas-de-saude-ubs/resource/1684b8d1-f8fd-4870-9556-31154b2d75c9)
-
-### Features
-- [x] Consulta por bairro
-- [x] Consulta distância entre ccordenadas
-- [ ] Consultar por bairro de um determinado estado
-- [ ] Consultar por bairro de uma determinada cidade
