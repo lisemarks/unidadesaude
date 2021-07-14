@@ -18,7 +18,7 @@ Para testar a aplicação tenha instalado na sua máquina as seguintes ferrament
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código.
 
-### 🎲 Rodando a aplicação
+### Rodando a aplicação
 
 # Clone o repositório
 $ git clone <https://github.com/lisemarks/unidadesaude.git>
